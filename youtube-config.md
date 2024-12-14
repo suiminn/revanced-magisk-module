@@ -5,6 +5,7 @@
 "hide_download_button": true,
 "hide_player_flyout_additional_settings": true,
 "hide_player_flyout_lock_screen": true,
+"hide_player_flyout_sleep_timer": true,
 "hide_player_flyout_video_quality_footer": true,
 "hide_player_popup_panels": true,
 "hide_report_button": true,
