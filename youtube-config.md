@@ -2,6 +2,7 @@
 "auto_captions": true,
 "disable_translucent_navigation_bar_dark": true,
 "disable_translucent_navigation_bar_light": true,
+"force_original_audio": true,
 "hide_comments_preview_comment": true,
 "hide_compact_banner": false,
 "hide_download_button": true,
@@ -17,5 +18,5 @@
 "miniplayer_type": "minimal",
 "switch_create_with_notifications_button": false,
 "video_quality_default_mobile": 2160,
-"video_quality_default_wifi": 2160
+"video_quality_default_wifi": 21600
 ```
