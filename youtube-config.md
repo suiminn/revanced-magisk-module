@@ -1,7 +1,5 @@
 ```
 "auto_captions": true,
-"disable_translucent_navigation_bar_dark": true,
-"disable_translucent_navigation_bar_light": true,
 "force_original_audio": true,
 "hide_comments_preview_comment": true,
 "hide_compact_banner": false,
