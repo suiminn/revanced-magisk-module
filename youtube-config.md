@@ -10,6 +10,7 @@
 "hide_player_flyout_video_quality_footer": true,
 "hide_player_popup_panels": true,
 "hide_report_button": true,
+"hide_shorts_history": true,
 "hide_shorts_home": true,
 "hide_shorts_search": true,
 "hide_shorts_subscriptions": true,
