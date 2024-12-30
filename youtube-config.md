@@ -18,7 +18,5 @@
 "shorts_disable_background_playback": true,
 "switch_create_with_notifications_button": false,
 "video_quality_default_mobile": 2160,
-"video_quality_default_wifi": 2160,
-"sb_local_time_saved_milliseconds": 11380,
-"sb_local_time_saved_number_segments": 1
+"video_quality_default_wifi": 2160
 ```
