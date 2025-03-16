@@ -9,5 +9,5 @@ parallel-jobs = 1
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-included-patches = "'Bypass URL redirects' 'Check watch history domain name resolution' 'Disable auto captions' 'Disable fullscreen ambient mode' 'Disable player popup panels' 'Disable resuming Shorts on startup' 'Force original audio' 'Hide Shorts components' 'Hide ads' 'Hide layout components' 'Hide player flyout menu items' 'Hide timestamp' 'Hide video action buttons' 'Navigation buttons' 'Remove background playback restrictions' 'Remove tracking query parameter' 'SponsorBlock' 'Video ads' 'Video quality'"
+included-patches = "'Bypass URL redirects' 'Check watch history domain name resolution' 'Disable auto captions' 'Disable fullscreen ambient mode' 'Disable player popup panels' 'Disable resuming Shorts on startup' 'Force original audio' 'Hide Shorts components' 'Hide ads' 'Hide layout components' 'Hide player flyout menu items' 'Hide video action buttons' 'Navigation buttons' 'Remove background playback restrictions' 'Remove tracking query parameter' 'SponsorBlock' 'Video ads' 'Video quality'"
 patcher-args = "-OhideShortsAppShortcut=true -OhideShortsWidget=true "
